@@ -1,1 +1,1 @@
-# SSAN
+# Seletive Self-Attention Networks
